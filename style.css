@@ -1,0 +1,63 @@
+.NP {text-indent: 25px;
+width: 300px;    
+background-color: burlywood;
+border-radius: 10px;
+
+}
+  
+  h1 {font-size: 60px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  h1 span {/* esta linea es para ponerle fondo al encabezado y que se quede centrada solo donde estan las palabras*/
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .piedras {
+    height:200px;
+    width: 400px;
+    border-radius: 100px;
+    position: relative;
+
+}
+.Mujer {
+width: 400px;
+height: 300px;
+border-radius: 150px 0 150px 150px;
+position: relative;
+
+}
+
+.paginas-de-go {
+  /* Ajusta las dimensiones según sea necesario */
+  height: 200px;
+  width: 600px;
+  display: flex; /* Para que las imágenes se alineen en una fila */
+  justify-content: space-between; /* Espacio entre las imágenes */
+  align-items: center; /* Centra verticalmente las imágenes */
+}
+
+.paginas-de-go img {
+  /* Ajusta las dimensiones de las imágenes según sea necesario */
+  height: 100px;
+  width: auto;
+  border-radius: 5px;
+}
+  
+.SignU {
+ background-color: burlywood;
+ border-radius: 10px;
+ padding: 15px;
+ width: 270px;
+}
+
+.imagenes-ext img {
+  height: 300px;
+  width: auto;
+  border-radius: 5px;
+
+}
+  
